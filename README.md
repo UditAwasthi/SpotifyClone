@@ -189,5 +189,3 @@ The MP3 may not have embedded cover art. Re-download via `downloader_script.py` 
 
 Built by **Udit Awasthi**
 
-- Instagram: [@udit_awasthi_](https://www.instagram.com/udit_awasthi_/)
-- YouTube: [Udit's Channel](https://youtube.com/@udit-tj2oy)
